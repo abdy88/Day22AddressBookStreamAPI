@@ -3,6 +3,9 @@ package bl.com.addressbook;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import java.util.ArrayList;
+import java.util.Scanner;
+
 public class AddressBookMethods {
 	
 	static Scanner sc = new Scanner(System.in);
